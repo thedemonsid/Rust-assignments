@@ -1,0 +1,16 @@
+# Ignore compiled output
+**/target/
+
+# Ignore editor and IDE files
+**/.vscode/
+**/.idea/
+
+# Ignore build artifacts
+**/Cargo.lock
+
+# Ignore generated documentation
+**/doc/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
